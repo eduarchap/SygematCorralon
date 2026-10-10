@@ -1,0 +1,1 @@
+{"comments":"","id":"ERR_VTO_SUP_NO_REM","magicNumber":4026,"magicVer":0,"names":{"es":"No es posible quitar los vencimientos de la remesa porque su estado actual no es remesado.\\nElimine las operaciones necesarias hasta que el estado de los vencimientos a quitar de la remesa sea remesado al igual que su última operación."},"properties":{},"style":0,"type":51}
