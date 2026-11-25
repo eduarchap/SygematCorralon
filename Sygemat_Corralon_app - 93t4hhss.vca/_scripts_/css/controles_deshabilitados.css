@@ -1,0 +1,11 @@
+VLineEdit, VDateEdit, VDateTime, VTimeEdit, VDateTimeEdit, 
+VNumberSpinBox, VLineEditBrowser, VBoundFieldEdit, VBoundFieldComboBox,
+VBoundFieldListBox, VComboBox, VListBox, VPushButton
+{
+    qproperty-enabled: false
+}
+
+VPushButton#BTN_CNC
+{
+    qproperty-enabled: true
+}
